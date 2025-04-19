@@ -16,7 +16,7 @@ JobsFi is a decentralized job board platform built on the ApeChain testnet. It e
 
 ## 🔐 Subscription Logic
 
-Employers must pay `0.2 APE` to access job posting features. Subscriptions are stored and validated before allowing job posting actions.
+Employers can pay some amount of APE to access job posting features. Subscriptions are stored and validated before allowing job posting actions.
 
 ## 🚀 Deployment
 
